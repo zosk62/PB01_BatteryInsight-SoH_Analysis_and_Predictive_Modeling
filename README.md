@@ -1,6 +1,6 @@
 # BatteryInsight: State of Health (SoH) Analysis and Predictive Modeling
 
-![BatteryInsight Logo](path/to/your/logo.png)
+
 
 ## Introduction
 
