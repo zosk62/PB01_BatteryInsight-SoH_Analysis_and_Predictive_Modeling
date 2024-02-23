@@ -61,6 +61,3 @@ BatteryInsight provides a comprehensive solution for the analysis and predictive
 - **Web Application Framework:** Streamlit
 - **Notebook Environment:** Jupyter Notebooks
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
