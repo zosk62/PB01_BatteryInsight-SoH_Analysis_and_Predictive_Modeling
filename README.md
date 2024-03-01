@@ -26,7 +26,7 @@ Battery behavior is visualized through various plots, such as Capacity per Cycle
 
 ### Capacity per Cycle
 
-![Capacity per Cycle](pics/capacity_per_cycle.png)
+![Capacity per Cycle](pic/capacity_per_cycle.png)
 
 This plot illustrates the variation in battery capacity across cycles, providing insights into the degradation pattern.
 
